@@ -7,7 +7,7 @@ I am proficient in JavaScript, Python, Express, Sequelize, Flask, SQLAlchemy, an
 * Drawing
 * Gaming
 * History
-If you happen to be interested in reaching out, I'd love to hear from you. Here's how you can reach me: https://www.linkedin.com/in/marc-guggenheim-270165275/
+* If you happen to be interested in reaching out, I'd love to hear from you. Here's how you can reach me: https://www.linkedin.com/in/marc-guggenheim-270165275/
 
 <!--
 **MarcGugg/MarcGugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
