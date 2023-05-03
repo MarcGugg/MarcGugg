@@ -1,6 +1,13 @@
 ### Marc Guggenheim - Junior Software Develeoper
 I am proficient in JavaScript, Python, Express, Sequelize, Flask, SQLAlchemy, and React/Redux. I look forward to starting my journey as a professional software developer. 
 
+* I am interested in furthering my programming knowledge, most particularly by learning about more technologies, such as Google Firebase, AWS, and many others.
+
+# I have many other passions besides programming, including, but not limited to:
+* Drawing
+* Gaming
+* History
+If you happen to be interested in reaching out, I'd love to hear from you. Here's how you can reach me: https://www.linkedin.com/in/marc-guggenheim-270165275/
 
 <!--
 **MarcGugg/MarcGugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
